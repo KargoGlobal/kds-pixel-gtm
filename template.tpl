@@ -1,8 +1,17 @@
-﻿___INFO___
+﻿___TERMS_OF_SERVICE___
+
+By creating or modifying this file you agree to Google Tag Manager's Community
+Template Gallery Developer Terms of Service available at
+https://developers.google.com/tag-manager/gallery-tos (or such other URL as
+Google may provide), as modified from time to time.
+
+
+___INFO___
 
 {
-  "displayName": "Kargo Measurement Pixel",
-  "description": "Kargo Measurement Pixel for Editorial and Behavioral Insights for Media Recommendations",
+  "displayName": "Kargo Pixel",
+  "description": "Kargo Pixel to provide advertising analytics and consumer insights",
+  "categories": ["ANALYTICS", "ADVERTISING", "ATTRIBUTION"],
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
